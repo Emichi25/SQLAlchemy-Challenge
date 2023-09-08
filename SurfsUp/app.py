@@ -114,7 +114,7 @@ def temp_monthly():
    
     return jsonify(temps1)
 
-# Here is the start/end page where you will
+# Here is the start/end page where you can find the min, max and average temperatures for specified dates. 
 
  
 # See 10.3 notes and https://docs.sqlalchemy.org/en/20/core/sqlelement.html#sqlalchemy.sql.expression.func
